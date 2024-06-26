@@ -1,5 +1,9 @@
 @font-face {
     font-family: 'Cinderella';
     font-display: swap;
-    src: url('/fonts/Cinderella.otf') format("opentype");  
+    src: url('/fonts/Cinderella.otf') ;  
+  }
+
+h1#site-title {
+    font-family: 'Cinderella', sans-serif;
   }
